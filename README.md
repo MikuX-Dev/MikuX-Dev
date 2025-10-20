@@ -2,11 +2,9 @@
 
 ### A seasoned Shell developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MikuX-Dev&label=Profile views&color=0e75b6&style=flat" alt="MikuX-Dev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MikuX-Dev" alt="MikuX-Dev" /></a> </p>
 
-- 🌱 I'm currently learning **C, CPP, Bash, Lua, Go, Graph-QL, Typescript, JavaScript, React, Next.Js, Astro, PostgreSQL, Redis, MongoDB, Docker, JSON, Rust**
+- 🌱 I'm currently learning **C, CPP, Bash, Lua, Go, Graph-QL, Typescript, JavaScript, React, Next.Js, Astro, PostgreSQL, Redis, MongoDB, Docker, JSON, Rust, Ruby.**
 
 - 💬 Ask me about **I Use Arch BTW,
 Watching Anime...**
